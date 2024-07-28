@@ -1,6 +1,7 @@
 # KubeFlix
 
-![1722160362038](https://github.com/user-attachments/assets/653f5e5c-f6e2-4592-aa56-a9c9f46feb59)
+![Netflix](https://github.com/user-attachments/assets/a89ef8fb-31bc-4512-bd5e-deafff52f443)
+
 ![DevSecOps arch](https://github.com/user-attachments/assets/3f90810f-b337-4e26-82fd-2d39c01f26b1)
 
 
