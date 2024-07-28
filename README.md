@@ -1,4 +1,9 @@
 # KubeFlix
+
+![1722160362038](https://github.com/user-attachments/assets/653f5e5c-f6e2-4592-aa56-a9c9f46feb59)
+![DevSecOps arch](https://github.com/user-attachments/assets/3f90810f-b337-4e26-82fd-2d39c01f26b1)
+
+
 Hosting Netflix on Kubernetes cluster using DevSecOps principles and CI/CD pipeline.
 
 Phase 1: Initial Setup and Deployment
