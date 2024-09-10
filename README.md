@@ -2,7 +2,7 @@
 
 ![Netflix](https://github.com/user-attachments/assets/a89ef8fb-31bc-4512-bd5e-deafff52f443)
 
-![DevSecOps arch](https://github.com/user-attachments/assets/3f90810f-b337-4e26-82fd-2d39c01f26b1)
+![Design](https://github.com/user-attachments/assets/9609e810-3e51-49a8-a44d-a9cfc9e765e9)
 
 
 Hosting Netflix on Kubernetes cluster using DevSecOps principles and CI/CD pipeline.
